@@ -2,6 +2,8 @@
 # Maintainer: Tobias Powalowski <tpowa@archlinux.org>
 # Maintainer: Thomas Baechler <thomas@archlinux.org>
 
+#Edited by Sagar Mohan <sagarmohan846@gmail.com>
+
 #pkgbase=linux               # Build stock -ARCH kernel
 pkgbase=linux-apollo       # Build kernel with a different name
 _srcname=linux-4.13
